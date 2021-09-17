@@ -1,2 +1,3 @@
 # COMHelper
-Helper libraries for COM
+
+Helper libraries for COM interop.
